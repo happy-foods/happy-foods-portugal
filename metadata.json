@@ -1,0 +1,6 @@
+{
+  "name": "Happy Foods Portugal",
+  "description": "Healthy personalized meal plans, recipes, and intelligent nutrition assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
